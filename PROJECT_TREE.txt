@@ -1,0 +1,47 @@
+SkyFlow-Live-Weather/
+├── .github/
+│   └── workflows/
+│       └── build-apk.yml
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/otabz/skyflowliveweather/
+│   │   │   │   ├── AppPreferences.java
+│   │   │   │   ├── CitySearchRepository.java
+│   │   │   │   ├── CitySearchResult.java
+│   │   │   │   ├── MainActivity.java
+│   │   │   │   ├── WeatherRenderer.java
+│   │   │   │   ├── WeatherRepository.java
+│   │   │   │   ├── WeatherSnapshot.java
+│   │   │   │   └── WeatherWallpaperService.java
+│   │   │   ├── res/
+│   │   │   │   ├── drawable/
+│   │   │   │   │   ├── ic_launcher.xml
+│   │   │   │   │   ├── panel_background.xml
+│   │   │   │   │   └── wallpaper_thumbnail.xml
+│   │   │   │   ├── layout/activity_main.xml
+│   │   │   │   ├── values/
+│   │   │   │   │   ├── colors.xml
+│   │   │   │   │   ├── strings.xml
+│   │   │   │   │   └── styles.xml
+│   │   │   │   └── xml/weather_wallpaper.xml
+│   │   │   └── AndroidManifest.xml
+│   │   └── test/java/com/otabz/skyflowliveweather/
+│   │       ├── CitySearchResultTest.java
+│   │       └── WeatherSnapshotTest.java
+│   ├── build.gradle.kts
+│   └── proguard-rules.pro
+├── gradle/wrapper/
+│   ├── gradle-wrapper.jar
+│   └── gradle-wrapper.properties
+├── .gitignore
+├── build.gradle.kts
+├── gradle.properties
+├── gradlew
+├── gradlew.bat
+├── LICENSE
+├── PROJECT_TREE.txt
+├── README.md
+├── settings.gradle.kts
+├── THIRD_PARTY_NOTICES.md
+└── UPLOAD_TO_GITHUB.md

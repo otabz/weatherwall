@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sky_blue">#2B83D5</color>
+    <color name="sky_blue_dark">#10518C</color>
+    <color name="page_background">#F4F8FC</color>
+    <color name="text_primary">#14212B</color>
+    <color name="text_secondary">#52636F</color>
+    <color name="card_background">#FFFFFFFF</color>
+</resources>

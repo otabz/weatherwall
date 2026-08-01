@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SkyFlow Live Weather</string>
+    <string name="wallpaper_description">Animated live wallpaper that changes with current weather and day or night.</string>
+    <string name="heading">SkyFlow Live Weather</string>
+    <string name="subheading">Choose any city, use your device location, and reflect its current weather on your wallpaper.</string>
+    <string name="location_heading">Weather location</string>
+    <string name="selected_location_heading">CURRENT SELECTION</string>
+    <string name="default_selected_location">Auckland, New Zealand</string>
+    <string name="location_mode_device">Use my current device location</string>
+    <string name="location_mode_city">Search and choose a city</string>
+    <string name="location_mode_manual">Advanced: enter coordinates manually</string>
+    <string name="city_search_hint">City or postcode</string>
+    <string name="search_city">Search cities</string>
+    <string name="city_search_help">Enter at least two characters. Three or more characters provide fuzzy matching.</string>
+    <string name="manual_location_help">Use decimal coordinates, for example Auckland: -36.8485, 174.7633.</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="save_manual_location">Save manual location</string>
+    <string name="use_device_location">Use current location now</string>
+    <string name="refresh_weather">Refresh weather now</string>
+    <string name="set_wallpaper">Preview and set live wallpaper</string>
+    <string name="wallpaper_settings_heading">Wallpaper settings</string>
+    <string name="show_weather_text">Show temperature, condition and selected city</string>
+    <string name="animate_weather">Animate clouds and precipitation</string>
+    <string name="privacy_note">Privacy: city searches send the search text to Open-Meteo geocoding. Weather refreshes send the selected coordinates to Open-Meteo. This app contains no analytics or advertising.</string>
+    <string name="open_meteo_attribution">Weather and geocoding data by Open-Meteo.com: https://open-meteo.com/</string>
+    <string name="status_ready">Ready. Search for a city or use your current location.</string>
+</resources>
